@@ -25,8 +25,8 @@ I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-comput
 
 ### Buy my music:
 
-[Here!](dougmantis.bandcamp.com) Do it now!
+[Here!](https://dougmantis.bandcamp.com/) Do it now!
 
-Direct link: **dougmantis.bandcamp.com**
+Direct link: **https://dougmantis.bandcamp.com/**
 
 Every penny earned is one more penny towards getting my music on Spotify, which I will use to get more pennies.
