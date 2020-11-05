@@ -1,4 +1,4 @@
-## Welcome, Mortals of the human realm.
+# Welcome, Mortals of the human realm.
 
 I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-computer. I have, like, half a CS degree. No, I am not a mind-flayer dressed as a human, stop asking.
 
@@ -7,23 +7,36 @@ I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-comput
 
 ##### Good at:
 
+* D&D 5e
 * Math, sometimes
 * Fixing your grandma's computer
 * Drinking Mountain Dew (various flavors)
 * Englsih, and spelilng
-* Guitar hero (Through the fire and flames: Expert, 3 stars)
+* Guitar (...Hero)
 * Writing music, but not reading or playing it
 * Cooking noodles
+* Annoying my coworkers with memes
 * Pretending to know what I'm doing
 * Procrastinating
 
+##### Somewhat decent at:
+
+* Java?
+* Not breaking the law
+
+##### Marginally OK at:
+
+* Walking
+
 ##### Bad at:
 
+* Making myself look competent on my own website
 * Making lists
+* Reading (Whoever decided that dyslexia was spelled that way is a cruel, cruel person)
 * Remembering to do things
 * *TODO: finish*
 
-### Buy my music:
+##### Buy my music:
 
 [Here!](https://dougmantis.bandcamp.com/) Do it now!
 
