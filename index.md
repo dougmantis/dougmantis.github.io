@@ -1,4 +1,6 @@
-# Welcome, Mortals of the human realm.
+# Dougmantis Homepage
+
+Welcome, Mortals of the human realm.
 
 I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-computer. I have, like, half a CS degree. No, I am not a mind-flayer dressed as a human, stop asking.
 
@@ -41,5 +43,3 @@ I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-comput
 [Here!](https://dougmantis.bandcamp.com/) Do it now!
 
 Direct link: **https://dougmantis.bandcamp.com/**
-
-Every penny earned is one more penny towards getting my music on Spotify, which I will use to get more pennies.
