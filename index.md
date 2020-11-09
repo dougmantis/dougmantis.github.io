@@ -42,4 +42,4 @@ I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-comput
 
 [Here!](https://dougmantis.bandcamp.com/) Do it now!
 
-Direct link: **https://dougmantis.bandcamp.com/**
+Direct link: [**dougmantis.bandcamp.com/**](https://dougmantis.bandcamp.com/)
