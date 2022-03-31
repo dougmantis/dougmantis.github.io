@@ -7,6 +7,10 @@ I'm Doug. I'm a programmer, musician, pro-nerd, and your local guy-with-a-comput
 ### "If we had bacon, we could have bacon and eggs if we had eggs"
 *- Groucho Marx (misquoted)*
 
+##### Check out my video essay abilities [here](https://youtu.be/BfEvIjTQkIE)!
+
+Full video transcription available [here](https://docs.google.com/document/d/1lO3hKYLBVapSdgqiVMbic7byqUlm0HhcIggCjfNVtnI/edit?usp=sharing).
+
 ##### Good at:
 
 * D&D 5e
