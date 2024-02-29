@@ -2,8 +2,9 @@
 
 Welcome.
 
-I'm Doug. Programmer, musician, pro-nerd, IT "professional".
-I have, like, half a CS degree. No, I am not a mind-flayer dressed as a human, stop asking.
+I'm Doug. Programmer, musician, pro-nerd, IT "professional"
+
+I have, like, half a CS degree. No, I am not three cats in a coat dressed as a human, stop asking.
 
 ## Trans rights
 ## Free Palestine
